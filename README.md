@@ -60,6 +60,8 @@ Performance from the ChexNeXt paper (model as well as radiologists):
 
 <img src="https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002686.t001" width="80%">
 
+This project is adapted from [Laurent Veyssier's original repository](https://github.com/LaurentVeyssier/Chest-X-Ray-Medical-Diagnosis-with-Deep-Learning), with custom modifications and enhancements.
+
 👨‍💻 Author
 Karthik Cherupally
 🔗 GitHub: @https://github.com/CHERUPALLYKARTHIK
